@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Logan Pippin</h1>
 <h3 align="center">I am a full-stack web developer and passionate to learn more</h3>
 
-- 🔭 I’m currently working on [A Subscription Tracking Website](https://github.com/tonycrosby-tech/EZ_Tracker)
-
 - 🌱 I’m currently learning **Python, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://loganpippin.github.io/React-Portfolio/](https://loganpippin.github.io/React-Portfolio/)
